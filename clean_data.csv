@@ -1,0 +1,158 @@
+,Address,YearBuilt,Zestimate,Baths,Sqft,SchoolRating,Beds,Heating,Cooling,HomeType,Region,MonthlyHoa,TaxAssessedValue,status,price
+0," 510 Teresa Pl, San Ramon, CA 94583",1978,1740603,3.0,2750,8,5,"Zoned,Gas",Zoned,SingleFamily, San Ramon,0,690020,Sold,1720000
+1," 796 Lakemont Pl UNIT 6, San Ramon, CA 94582",1990,962333,3.0,1727,9,2,Forcedair,CentralAir,Townhouse, San Ramon,582,805000,Sold,950000
+2," 321 Kingsley Pl, San Ramon, CA 94583",1971,1194027,2.0,1479,9,4,Forcedair,Other,SingleFamily, San Ramon,582,227298,Sold,1170000
+3," 339 Goldfield Pl, San Ramon, CA 94582",2016,1409758,3.0,1996,9,3,Zoned,Zoned,SingleFamily, San Ramon,99,1063000,Sold,1400000
+4," 2053 Echo Pl, San Ramon, CA 94582",1989,1177549,3.0,2097,9,3,"Forcedair,Gas",Other,Townhouse, San Ramon,0,923104,Sold,1151000
+5," 7141 Watsonia Dr, San Ramon, CA 94582",2006,1942718,4.0,3175,9,4,"Zoned,Fireplace",Zoned,SingleFamily, San Ramon,20,1272052,Sold,1938888
+6," 9688 Ashby Way, San Ramon, CA 94583",1965,1142434,2.0,1202,9,3,Forcedair,Central,SingleFamily, San Ramon,20,865943,Sold,1120000
+7," 140 Eastridge Dr, San Ramon, CA 94582",1988,445712,1.0,730,8,1,Forcedair,CentralAir,Condo, San Ramon,336,436968,Sold,440000
+8," 3012 Sorrelwood Dr, San Ramon, CA 94582",1998,1906316,5.0,3847,9,5,Zoned,Zoned,SingleFamily, San Ramon,40,1523082,Sold,1895000
+9," 511 Skyline Dr, San Ramon, CA 94583",1996,635967,2.0,995,8,2,Other,Other,Condo, San Ramon,0,264911,Sold,630000
+10," 3010 Millbridge Dr, San Ramon, CA 94583",1969,1255768,2.0,1533,9,3,Forcedair,Central,SingleFamily, San Ramon,0,666561,Sold,1250000
+11," 470 Bollinger Canyon Ln APT 183, San Ramon, CA 94582",1989,348505,1.0,428,9,1,"Forcedair,Gas",Central,Condo, San Ramon,0,181324,Sold,342000
+12," 11 Marilyn Pl, San Ramon, CA 94583",1971,816428,2.0,1361,9,3,Forcedair,Central,SingleFamily, San Ramon,0,221725,Sold,800000
+13," 3136 Montbretia Way, San Ramon, CA 94582",2015,2050195,4.0,3376,9,4,"Zoned,Gas",Zoned,SingleFamily, San Ramon,0,1522763,Sold,2025927
+14," 323 Chiltern Ct, San Ramon, CA 94582",2007,1766402,4.0,2877,9,4,Forcedair,Other,SingleFamily, San Ramon,0,1006749,Sold,1730000
+15," 3310 Ensenada Dr, San Ramon, CA 94583",1973,1239713,2.0,1685,9,3,Forcedair,"CeilingFan,CentralAir,WholeHouseFan",SingleFamily, San Ramon,0,807716,Sold,1100000
+16," 9085 Alcosta Blvd APT 320, San Ramon, CA 94583",1971,569461,2.0,1368,9,3,Forcedair,Wall,Condo, San Ramon,0,572219,Sold,569000
+17," 321 Norris Canyon Ter, San Ramon, CA 94583",1986,605983,2.0,1022,9,2,Forcedair,CentralAir,Condo, San Ramon,388,452457,Sold,600000
+18," 616 Peaceful Valley Dr, San Ramon, CA 94582",1995,1673679,3.0,2570,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,11,560296,Sold,1640000
+19," 7640 Stoneleaf Rd, San Ramon, CA 94582",2009,1083727,3.0,2203,9,3,Forcedair,CentralAir,Condo, San Ramon,230,875496,Sold,1035000
+20," 101 Stone Pine Ln, San Ramon, CA 94583",1993,580446,2.0,958,8,2,"Forcedair,Gas",CentralAir,Condo, San Ramon,367,336375,Sold,575000
+21," 404 Fernando Ct, San Ramon, CA 94583",1986,1605753,3.0,2839,8,4,"Forcedair,Fireplace","CeilingFan,CentralAir",SingleFamily, San Ramon,0,823973,Sold,1575000
+22," 302 Eastridge Dr, San Ramon, CA 94582",1988,464587,1.0,730,8,1,"Forcedair,Gas",CentralAir,Condo, San Ramon,424,421500,Sold,460000
+23," 124 Geranium Ct, San Ramon, CA 94582",2005,1719012,4.0,2801,9,4,Zoned,Zoned,SingleFamily, San Ramon,0,1293217,Sold,1705000
+24," 122 Woodview Cir, San Ramon, CA 94582",1980,1473196,3.0,2310,9,4,Central,CentralAir,SingleFamily, San Ramon,0,1167500,Sold,1450000
+25," 9463 Thunderbird Pl, San Ramon, CA 94583",1977,2361623,5.0,4072,9,5,"Zoned,Gas",Zoned,SingleFamily, San Ramon,0,1280798,Sold,2350000
+26," 105 Reflections Dr APT 14, San Ramon, CA 94583",1988,425250,1.0,624,8,1,Forcedair,CentralAir,Condo, San Ramon,326,418200,Sold,422000
+27," 1393 Bayberry View Ln, San Ramon, CA 94582",2015,1457199,4.0,2501,9,4,Other,Central,SingleFamily, San Ramon,0,1214377,Sold,1430000
+28," 106 Bandol Ct, San Ramon, CA 94582",2003,1891736,4.0,3472,9,5,Other,Other,SingleFamily, San Ramon,0,1262309,Sold,1850000
+29," 2638 Derby Dr, San Ramon, CA 94583",1986,2045120,3.0,2776,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,40,1190674,Sold,2000000
+30," 516 La Copita Ct, San Ramon, CA 94583",1970,646117,2.0,1064,8,2,Gravity,"CeilingFan,CentralAir",Townhouse, San Ramon,340,464847,Sold,635000
+31," 22 Palamos Ct, San Ramon, CA 94583",1980,1375678,3.0,1880,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,41,699387,Sold,1350000
+32," 625 Santander Dr, San Ramon, CA 94583",1979,1685817,3.0,2585,9,4,"Forcedair,Gas",Central,SingleFamily, San Ramon,0,551464,Sold,1685817
+33," 3542 Cinnamon Ridge Rd, San Ramon, CA 94582",2016,1722071,5.0,2721,9,4,Zoned,Zoned,SingleFamily, San Ramon,96,1229832,Sold,1750000
+34," 2795 Norris Canyon Rd, San Ramon, CA 94583",1974,2309553,4.0,3389,8,4,Zoned,"CeilingFan,Zoned",SingleFamily, San Ramon,0,1012680,Sold,2305000
+35," 2791 Camino Venadillo, San Ramon, CA 94583",1974,1666454,3.0,2518,8,4,"Forcedair,Gas","CentralAir,WholeHouseFan,ENERGYSTARQualifiedEquipment",SingleFamily, San Ramon,0,680626,Sold,1650000
+36," 2543 Derby Dr, San Ramon, CA 94583",1986,1908846,3.0,2418,9,4,"Forcedair,Fireplace","CeilingFan,CentralAir",SingleFamily, San Ramon,0,1413903,Sold,1889999
+37," 425 Gregg Pl, San Ramon, CA 94583",1976,1309061,2.0,1434,9,3,"Central,Fireplace",CentralAir,SingleFamily, San Ramon,0,464658,Sold,1300000
+38," 120 Reflections Dr APT 23, San Ramon, CA 94583",1988,381565,1.0,474,8,1,Forcedair,CentralAir,Condo, San Ramon,297,285720,Sold,375000
+39," 9691 Davona Dr, San Ramon, CA 94583",1966,1262489,2.0,1288,9,3,"Forcedair,Gas","CeilingFan,CentralAir",SingleFamily, San Ramon,0,309252,Sold,1260000
+40," 502 Cartagena Ln, San Ramon, CA 94583",1979,1670594,3.0,2585,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,0,854173,Sold,1650000
+41," 275 Norris Canyon Ter APT B, San Ramon, CA 94583",1985,680547,1.0,1022,9,2,Forcedair,CentralAir,Condo, San Ramon,388,637500,Sold,675000
+42," 440 Canyon Woods Pl APT E, San Ramon, CA 94582",1986,661000,2.0,1026,8,2,Forcedair,CentralAir,Condo, San Ramon,460,594900,Sold,661000
+43," 440 Bollinger Canyon Ln APT 397, San Ramon, CA 94582",1989,432012,1.0,657,9,1,Forcedair,"CentralAir,Other",Condo, San Ramon,392,431766,Sold,425000
+44," 2008 Trefoil Rd, San Ramon, CA 94582",2015,1680643,4.0,2378,8,4,Forcedair,Central,SingleFamily, San Ramon,0,1224000,Sold,1655000
+45," 3498 Ashbourne Cir, San Ramon, CA 94583",2004,2722133,6.0,5202,9,5,"Zoned,Gas",Zoned,SingleFamily, San Ramon,180,1763085,Sold,2670000
+46," 311 Andora Ln, San Ramon, CA 94583",1979,1428043,2.0,2071,9,4,Forcedair,Other,Unknown, San Ramon,0,583215,Sold,1400000
+47," 5541 Satinleaf Way, San Ramon, CA 94582",2004,2459728,5.0,4578,9,5,Zoned,Zoned,SingleFamily, San Ramon,40,1981682,Sold,2425800
+48," 216 Sun Ridge Dr, San Ramon, CA 94582",1995,1926178,3.0,2980,9,5,"Forcedair,Gas,Solar","Refrigerator,Central,Solar",SingleFamily, San Ramon,0,1152165,Sold,1910000
+49," 1514 Arianna Ln, San Ramon, CA 94582",2003,996956,3.0,1892,9,3,Forcedair,CentralAir,Condo, San Ramon,240,538214,Sold,875111
+50," 2338 Keats Ln, San Ramon, CA 94582",2006,2078312,3.0,3364,9,4,Other,Central,SingleFamily, San Ramon,240,1380100,Sold,2078312
+51," 637 Claire Pl, San Ramon, CA 94583",1976,1262413,2.0,1434,9,3,Forcedair,CentralAir,SingleFamily, San Ramon,0,857415,Sold,1245000
+52," 558 La Copita Ct, San Ramon, CA 94583",1971,640378,2.0,1064,8,2,"Forcedair,Gas,Central",CentralAir,Condo, San Ramon,340,541620,Sold,635000
+53," 1429 Bayberry View Ln, San Ramon, CA 94582",2017,1557153,4.0,2501,9,4,"Forcedair,Zoned","CentralAir,Zoned",SingleFamily, San Ramon,103,1178773,Sold,1550000
+54," 38 Centennial Way, San Ramon, CA 94583",1996,1570409,3.0,2474,9,4,"Gravity,Forcedair","CeilingFan,CentralAir",SingleFamily, San Ramon,60,522524,Sold,1560000
+55," 415 Camberly Ct, San Ramon, CA 94583",2005,2497226,5.0,4608,9,5,"Zoned,Gas",Zoned,SingleFamily, San Ramon,173,1911000,Sold,2600000
+56," 201 Marsh Ct, San Ramon, CA 94583",1971,1427336,2.0,1812,8,3,Forcedair,CentralAir,SingleFamily, San Ramon,0,680913,Sold,1400000
+57," 82 Sage Cir, San Ramon, CA 94583",1985,1598425,3.0,2339,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,40,442410,Sold,1585000
+58," 18189 Bollinger Canyon Rd, San Ramon, CA 94583",1979,1775014,3.0,2756,8,3,Zoned,"CeilingFan,Zoned",SingleFamily, San Ramon,0,1112866,Sold,1825000
+59," 109 Scarboro Pl, San Ramon, CA 94583",1967,1210774,2.5,2053,9,4,Forcedair,Other,SingleFamily, San Ramon,0,178452,Sold,860000
+60," 727 Pradera Way, San Ramon, CA 94583",1999,1770630,3.0,2715,8,5,Zoned,Zoned,SingleFamily, San Ramon,93,1158000,Sold,1735000
+61," 2555 Toltec Cir, San Ramon, CA 94583",1978,1287076,2.0,2071,9,4,"Forcedair,Gas",CentralAir,SingleFamily, San Ramon,0,477060,Sold,1275000
+62," 556 Burns Cir, San Ramon, CA 94583",1981,1804896,3.0,3367,9,4,Zoned,Zoned,SingleFamily, San Ramon,0,1041432,Sold,1780000
+63," 66 Shasta Ct, San Ramon, CA 94582",1988,1216079,3.0,2097,9,3,Zoned,Zoned,Townhouse, San Ramon,533,873936,Sold,1210000
+64," 9466 Thunderbird Pl, San Ramon, CA 94583",1977,1636680,3.0,2750,9,5,Zoned,"CeilingFan,Zoned,WholeHouseFan",SingleFamily, San Ramon,0,1300500,Sold,1625000
+65," 4039 W Lakeshore Dr, San Ramon, CA 94582",1989,1123296,3.0,1796,9,3,Forcedair,"CeilingFan,CentralAir",Townhouse, San Ramon,665,811217,Sold,1110000
+66," 2709 Bollinger Canyon Rd, San Ramon, CA 94583",1973,654438,2.0,1102,8,2,Central,CentralAir,Townhouse, San Ramon,370,535806,Sold,640000
+67," 6069 Laurelspur Loop, San Ramon, CA 94582",2015,2487961,5.0,4251,9,4,Zoned,Zoned,SingleFamily, San Ramon,42,2019816,Sold,2450000
+68," 402 Constantine Ct, San Ramon, CA 94583",2006,1048033,3.0,1735,8,3,"Forcedair,Gas",Central,SingleFamily, San Ramon,0,835441,Sold,1030000
+69," 719 Lakemont Pl UNIT 4, San Ramon, CA 94582",1991,907518,2.0,1810,9,3,Forcedair,Central,Condo, San Ramon,0,501613,Sold,895000
+70," 345 Goldfield Pl, San Ramon, CA 94582",2016,1407661,4.0,2378,8,4,Zoned,Zoned,SingleFamily, San Ramon,99,1233547,Sold,1400000
+71," 312 Ginger Ct, San Ramon, CA 94582",1995,1914717,3.0,3189,9,4,Other,Other,SingleFamily, San Ramon,99,1233730,Sold,1914717
+72," 188 Valdivia Cir, San Ramon, CA 94583",1980,1428305,3.0,1880,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,41,906188,Sold,1410000
+73," 126 Copper Ridge Rd, San Ramon, CA 94582",1988,650000,2.0,1079,8,2,Forcedair,CentralAir,Condo, San Ramon,506,585000,Sold,650000
+74," 6138 Yardley Ln, San Ramon, CA 94582",2006,1059091,3.0,2347,9,4,"Forcedair,Gas","Central,Other",Townhouse, San Ramon,0,893554,Sold,1045000
+75," 3084 Ashbourne Cir, San Ramon, CA 94583",2016,2732342,7.0,5735,9,6,"Zoned,Gas","Zoned,Other",SingleFamily, San Ramon,173,2284904,Sold,2700000
+76," 440 Canyon Woods Pl APT E, San Ramon, CA 94582",1986,669250,2.0,1026,8,2,"Forcedair,Gas","Central,Other",Condo, San Ramon,0,389488,Sold,661000
+77," 300 Foxboro Ct, San Ramon, CA 94583",1977,1274407,2.0,1382,9,3,Forcedair,CentralAir,SingleFamily, San Ramon,0,295065,Sold,1250000
+78," 5032 Lakeview Dr UNIT 200, San Ramon, CA 94582",1989,661052,2.0,1192,9,3,Forcedair,CentralAir,Condo, San Ramon,605,697068,Sold,650000
+79," 9085 Alcosta Blvd APT 394, San Ramon, CA 94583",1971,434660,1.0,1039,9,2,Forcedair,Wall/WindowUnit,Condo, San Ramon,456,423300,Sold,432000
+80," 408 S Overlook Dr, San Ramon, CA 94582",1988,660548,2.0,1079,8,2,Forcedair,CentralAir,Condo, San Ramon,505,570929,Sold,655000
+81," 470 Bollinger Canyon Ln APT 183, San Ramon, CA 94582",1989,342000,1.0,428,9,1,Forcedair,CentralAir,Condo, San Ramon,345,307800,Sold,342000
+82," 3066 Silva Way, San Ramon, CA 94582",2004,1562193,3.0,2408,9,4,Zoned,Zoned,SingleFamily, San Ramon,0,1106814,Sold,1530000
+83," 423 Silvercrown Way, San Ramon, CA 94582",2017,1409134,3.0,1996,8,3,Zoned,Zoned,SingleFamily, San Ramon,100,1048203,Sold,1376000
+84," 1129 Arrowfield Way, San Ramon, CA 94582",2004,1515425,2.5,2778,9,4,Other,Other,SingleFamily, San Ramon,100,1043295,Sold,1500000
+85," 286 Goldfield Pl, San Ramon, CA 94582",2021,1775094,4.0,3161,8,5,Other,Other,SingleFamily, San Ramon,100,1588938,Sold,1765487
+86," 554 Wycombe Ct, San Ramon, CA 94583",2006,2739000,5.0,5312,9,5,"Gravity,Radiant",Zoned,SingleFamily, San Ramon,173,2410000,Sold,2739000
+87," 6 Balsam Ln, San Ramon, CA 94583",1996,1238207,3.0,1589,9,3,Forcedair,"CeilingFan,CentralAir",SingleFamily, San Ramon,100,629375,Sold,1230000
+88," 2110 Arlington Way, San Ramon, CA 94582",2009,1439925,3.0,2194,9,4,"Zoned,Gas",Zoned,SingleFamily, San Ramon,0,1120913,Sold,1425000
+89," 3003 Blackberry Ave, San Ramon, CA 94582",2015,1097076,3.0,1763,9,3,Other,Central,Condo, San Ramon,0,898905,Sold,1075000
+90," 12971 Hawkins Dr, San Ramon, CA 94583",1977,1765527,3.0,2260,9,4,"Forcedair,Fireplace","CeilingFan,CentralAir",SingleFamily, San Ramon,0,1224000,Sold,1730000
+91," 2896 Sombrero Cir, San Ramon, CA 94583",1980,1296527,3.0,1972,9,4,Other,Other,SingleFamily, San Ramon,0,537541,Sold,1285000
+92," 2607 Totana Ct, San Ramon, CA 94583",1978,1650013,3.0,2586,8,4,Forcedair,CentralAir,SingleFamily, San Ramon,40,552889,Sold,1650000
+93," 3022 Lakemont Dr UNIT 3, San Ramon, CA 94582",1989,775607,2.0,1474,9,2,Forcedair,"CeilingFan,CentralAir",Condo, San Ramon,547,744600,Sold,760000
+94," 1096 Vista Pointe Cir, San Ramon, CA 94582",1996,1105405,3.0,1987,9,3,Forcedair,CentralAir,SingleFamily, San Ramon,302,828897,Sold,1088000
+95," 2130 Goldenrod Ln, San Ramon, CA 94582",1992,1178155,2.0,1392,9,3,Forcedair,CentralAir,SingleFamily, San Ramon,195,714612,Sold,1170000
+96," 24 Marilyn Pl, San Ramon, CA 94583",1971,1205968,2.0,1812,9,3,"Forcedair,Gas",CentralAir,SingleFamily, San Ramon,0,351473,Sold,1200000
+97," 4300 Canyon Crest Rd, San Ramon, CA 94582",1988,1886122,3.0,2852,9,4,Other,Other,SingleFamily, San Ramon,0,722837,Sold,1850000
+98," 3078 Pine Valley Rd, San Ramon, CA 94583",1971,1280157,2.0,1544,9,4,Forcedair,Other,SingleFamily, San Ramon,0,859578,Sold,1260000
+99," 207 Lyndhurst Pl, San Ramon, CA 94583",2004,2715016,5.0,5008,9,5,Zoned,"CeilingFan,Zoned",SingleFamily, San Ramon,173,1776919,Sold,2715000
+100," 637 S Blackbrush Ln, San Ramon, CA 94582",1995,1171588,3.0,1904,9,4,Forcedair,CentralAir,Townhouse, San Ramon,260,674710,Sold,1156000
+101," 200 Cliffcastle Ct, San Ramon, CA 94583",2013,2582365,4.5,4314,9,5,Other,Central,Unknown, San Ramon,0,1943853,Sold,30000
+102," 184 Victory Cir, San Ramon, CA 94582",1993,1499445,3.0,2411,8,4,Forcedair,CentralAir,SingleFamily, San Ramon,113,1157000,Sold,1470000
+103," 107 Stone Pine Ln, San Ramon, CA 94583",1993,586783,2.0,988,8,2,Forcedair,CentralAir,Condo, San Ramon,306,500000,Sold,582000
+104," 6120 Kearny Way, San Ramon, CA 94582",2007,1898748,3.0,3064,9,4,Zoned,Zoned,SingleFamily, San Ramon,0,1205399,Sold,1880000
+105," 1171 Stoney Creek Dr, San Ramon, CA 94582",1993,1403932,2.5,2462,9,4,Other,Other,SingleFamily, San Ramon,0,820771,Sold,1375000
+106," 2212 Maidenhair Way, San Ramon, CA 94582",2005,1450926,3.0,2019,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,128,731772,Sold,1445000
+107," 281 Norris Canyon Ter APT C, San Ramon, CA 94583",1986,520000,2.0,820,9,1,"Forcedair,Gas",CentralAir,Condo, San Ramon,388,504390,Sold,520000
+108," 6140 Lakeview Cir, San Ramon, CA 94582",1989,1291553,3.0,2064,9,3,Forcedair,CentralAir,Condo, San Ramon,524,766507,Sold,1275000
+109," 41 Haven Pl, San Ramon, CA 94583",1970,1433572,2.0,1543,9,4,Forcedair,"CeilingFan,CentralAir",SingleFamily, San Ramon,0,936619,Sold,1411000
+110," 9677 Thunderbird Dr, San Ramon, CA 94583",1977,1533626,3.0,2448,9,4,"Zoned,Fireplace","CeilingFan,Zoned",SingleFamily, San Ramon,0,733335,Sold,1505000
+111," 404 Merriwood Pl, San Ramon, CA 94582",1992,1651162,3.0,2952,9,3,Zoned,"CeilingFan,Zoned",SingleFamily, San Ramon,0,1281364,Sold,1630000
+112," 32 Hidden Canyon Ct, San Ramon, CA 94582",1989,1619647,3.0,2758,9,4,Forcedair,Central,SingleFamily, San Ramon,0,1096108,Sold,1575000
+113," 111 Deerwood Rd SUITE 288, San Ramon, CA 94583",1984,436014,0.0,870,8,1,Other,Other,Condo, San Ramon,0,173397,Sold,430000
+114," 352 Winterwind Cir, San Ramon, CA 94583",1991,1200659,3.0,1651,8,3,Forcedair,"CeilingFan,CentralAir",SingleFamily, San Ramon,177,622413,Sold,1180000
+115," 7407 Sedgefield Ave, San Ramon, CA 94583",1962,1492536,3.0,1858,9,4,Zoned,CentralAir,SingleFamily, San Ramon,0,1152600,Sold,1480000
+116," 230 Lakeridge Way, San Ramon, CA 94582",1989,1331412,3.0,1938,9,3,Forcedair,CentralAir,SingleFamily, San Ramon,225,376722,Sold,1315000
+117," 129 Pearlgrass Ct, San Ramon, CA 94582",1997,1632723,3.0,2306,9,4,Zoned,Zoned,SingleFamily, San Ramon,130,537127,Sold,1611000
+118," 9025 Alcosta Blvd APT 257, San Ramon, CA 94583",1971,485990,2.0,1308,9,3,Electric,Wall/WindowUnit,Condo, San Ramon,662,183068,Sold,480000
+119," 2032 Longleaf Cir, San Ramon, CA 94582",2005,2355000,5.0,4118,9,5,Zoned,"CeilingFan,Zoned",SingleFamily, San Ramon,0,1718094,Sold,2355000
+120," 1116 Overlook Ct, San Ramon, CA 94582",1981,1808306,3.0,2998,9,5,Forcedair,"CeilingFan,CentralAir",SingleFamily, San Ramon,0,950380,Sold,1800000
+121," 3161 Ashbourne Cir, San Ramon, CA 94583",2012,2388776,5.5,4976,9,5,Other,Other,Unknown, San Ramon,0,2074997,Sold,2350000
+122," 7502 Stoneleaf Rd, San Ramon, CA 94582",2010,1035223,3.0,2203,9,3,Forcedair,CentralAir,Condo, San Ramon,230,824200,Sold,1028888
+123," 9801 Broadmoor Dr, San Ramon, CA 94583",1971,1287125,2.0,1563,9,3,Forcedair,CentralAir,SingleFamily, San Ramon,0,857283,Sold,1270000
+124," 4300 Canyon Crest Rd W, San Ramon, CA 94582",1988,1850000,3.0,2852,9,4,"Zoned,Gas,Solar","CeilingFan,Zoned",SingleFamily, San Ramon,0,1665000,Sold,1850000
+125," 4011 Lilac Ridge Rd, San Ramon, CA 94582",2000,1892400,3.0,2739,9,4,Zoned,Zoned,SingleFamily, San Ramon,40,613750,Sold,1870000
+126," 3528 Browntail Way, San Ramon, CA 94582",2006,1256840,3.0,1606,9,3,Forcedair,CentralAir,SingleFamily, San Ramon,128,879146,Sold,1250000
+127," 30 Eagle Lake Pl UNIT 23, San Ramon, CA 94582",1990,1018543,2.0,2112,9,3,Forcedair,CentralAir,Condo, San Ramon,798,962369,Sold,1013000
+128," 59 Dunbarton Ct, San Ramon, CA 94583",1986,1810748,3.0,3176,9,4,"Zoned,Gas",Zoned,SingleFamily, San Ramon,0,502544,Sold,1800000
+129," 2432 Maidenhair Way, San Ramon, CA 94582",2008,1273776,3.0,1606,9,3,Forcedair,CentralAir,SingleFamily, San Ramon,128,700600,Sold,1250000
+130," 414 Fuchsia Ln, San Ramon, CA 94582",1996,1556356,3.0,2083,9,3,Zoned,Zoned,SingleFamily, San Ramon,130,1087500,Sold,1550000
+131," 213 Glory Lily Ct, San Ramon, CA 94582",2005,2607282,4.0,4729,9,6,"Forcedair,Gas",Central,SingleFamily, San Ramon,0,1826359,Sold,1914717
+132," 89 Tumbleweed Ct, San Ramon, CA 94583",1985,1909129,2.0,2352,9,4,"Forcedair,Gas",CentralAir,SingleFamily, San Ramon,40,1172649,Sold,1880000
+133," 2 Windmill Ct, San Ramon, CA 94583",2000,2071471,5.0,4111,9,6,Forcedair,Central,SingleFamily, San Ramon,0,1716000,Sold,2050000
+134," 836 Spring Brook Dr, San Ramon, CA 94582",1994,1550000,3.0,2366,9,5,Zoned,"CeilingFan,CentralAir",SingleFamily, San Ramon,0,982853,Sold,1550000
+135," 7538 Stoneleaf Rd, San Ramon, CA 94582",2010,1071562,3.0,2203,9,3,Forcedair,CentralAir,Condo, San Ramon,230,835635,Sold,1050000
+136," 510 Fallen Leaf Cir, San Ramon, CA 94583",1987,1406248,3.0,2294,8,4,"Forcedair,Fireplace",CentralAir,SingleFamily, San Ramon,0,413623,Sold,1380000
+137," 3586 Cinnamon Ridge Rd, San Ramon, CA 94582",2016,1625852,5.0,2906,9,4,Zoned,Zoned,SingleFamily, San Ramon,103,1478792,Sold,1609000
+138," 633 Santander Dr, San Ramon, CA 94583",1979,1663560,2.0,2070,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,0,825341,Sold,1650000
+139," 2850 Via Cordoba, San Ramon, CA 94583",1976,1681384,3.0,2202,8,4,"Forcedair,Gas","CeilingFan,CentralAir,ENERGYSTARQualifiedEquipment",SingleFamily, San Ramon,0,629994,Sold,1650000
+140," 7327 Balmoral Way, San Ramon, CA 94582",2007,2100000,5.0,3891,9,5,"Electric,Zoned","CeilingFan,Zoned",SingleFamily, San Ramon,0,1249288,Sold,2100000
+141," 1828 Barossa Dr, San Ramon, CA 94582",2002,1625000,3.0,2381,9,4,Forcedair,CentralAir,SingleFamily, San Ramon,0,871365,Sold,1625000
+142," 2091 Canyon Crest Ave, San Ramon, CA 94582",1990,1734440,3.0,2758,9,4,Zoned,Zoned,SingleFamily, San Ramon,27,1071461,Sold,1725000
+143," 3438 Browntail Way, San Ramon, CA 94582",2006,1455222,3.0,2019,9,4,Forcedair,"CentralAir,Other",SingleFamily, San Ramon,128,969020,Sold,1443000
+144," 1131 Trumpet Vine Ln, San Ramon, CA 94582",2018,2176834,4.0,2909,8,4,Zoned,Zoned,SingleFamily, San Ramon,68,1725126,Sold,2150000
+145," 3026 Lakemont Dr UNIT 4, San Ramon, CA 94582",1990,951260,2.0,1778,9,3,Gas,CentralAir,Condo, San Ramon,559,795906,Sold,940000
+146," 83 Rainbow Bridge Pl, San Ramon, CA 94582",1987,1637377,3.0,2166,8,4,"Forcedair,Gas","CeilingFan,CentralAir",SingleFamily, San Ramon,181,961932,Sold,1610000
+147," 2522 Basswood Dr, San Ramon, CA 94582",2005,1723171,3.0,2809,9,4,"Forcedair,Gas",Central,SingleFamily, San Ramon,0,1237000,Sold,1710000
+148," 406 Camberly Ct, San Ramon, CA 94583",2005,2344909,4.0,4261,9,5,Zoned,Zoned,SingleFamily, San Ramon,175,1880000,Sold,2300000
+149," 2612 Paige Way, San Ramon, CA 94582",2006,1828905,5.0,3686,9,4,Zoned,Zoned,SingleFamily, San Ramon,0,1112894,Sold,1828888
+150," 3551 Ashbourne Cir, San Ramon, CA 94583",2003,2915871,6.0,5303,9,4,"Zoned,Gas",Zoned,SingleFamily, San Ramon,175,2029679,Sold,2900000
+151," 600 Peaceful Valley Dr, San Ramon, CA 94582",1995,1797750,3.0,2570,9,4,Zoned,Zoned,SingleFamily, San Ramon,11,891517,Sold,1780000
+152," 7633 Stellaria Ln, San Ramon, CA 94582",2000,1081956,3.0,1462,9,3,Forcedair,"CeilingFan,CentralAir",Townhouse, San Ramon,277,875913,Sold,1075000
+153," 3578 Sandalford Way, San Ramon, CA 94582",2004,1511554,3.0,2962,9,4,Zoned,Zoned,SingleFamily, San Ramon,0,1156907,Sold,1500000
+154," 6117 Yardley Ln, San Ramon, CA 94582",2006,1217016,3.0,2479,9,5,"Zoned,Gas","CeilingFan,Zoned",Townhouse, San Ramon,294,864884,Sold,1205000
+155," 3647 Crow Canyon Rd, San Ramon, CA 94582",1987,754822,3.0,1386,9,3,Forcedair,CentralAir,Condo, San Ramon,450,609907,Sold,740000
+156," 1530 Cutter Ct, San Ramon, CA 94583",1996,820680,3.0,1579,9,2,Forcedair,CentralAir,Townhouse, San Ramon,385,515146,Sold,815000
